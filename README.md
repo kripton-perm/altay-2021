@@ -32,6 +32,12 @@
 ![image](https://user-images.githubusercontent.com/27273205/116793815-81af1d00-aae2-11eb-89f3-7ade4543ba81.png)
 В районе озера ночёвка
 
+# День 5
+От озера **Виктория** через хребет **Иолго** к 5-му озеру (около 5 км)
+![image](https://user-images.githubusercontent.com/27273205/116793985-6abcfa80-aae3-11eb-9cdc-59bf3669c1af.png)
+В районе озера ночёвка
+
+
 
 
 
