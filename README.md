@@ -54,6 +54,8 @@
 
 3 августа до Перми - только [с пересадками](https://rasp.yandex.ru/search/train/?fromId=c197&fromName=%D0%91%D0%B0%D1%80%D0%BD%D0%B0%D1%83%D0%BB&toId=c50&toName=%D0%9F%D0%B5%D1%80%D0%BC%D1%8C&when=3+%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0)
 
+Вариант через Тюмень - тот же паровоз, что и до Красноуфимска
+
 4 августа - паровоз [до Перми](https://rasp.yandex.ru/thread/R_077QI_112?departure_from=2021-08-04+13%3A56%3A00&station_from=9610483&station_to=9607774) в 9:56 МСК (13:56)
 
 
